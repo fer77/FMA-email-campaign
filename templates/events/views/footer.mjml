@@ -1,0 +1,29 @@
+<mj-section background-color="#ffaa5a" padding-bottom="0" padding-top="0">
+  <mj-column width="100%">
+    <mj-image src="https://dl.dropboxusercontent.com/s/fhrf8ah6f9axr6i/fma-bw.png" alt="Logo yellow" href="http://freemusicarchive.org/" width="133px" padding-bottom="5" padding-top="10" />
+  </mj-column>
+  <mj-column width="33.33%">
+    <mj-text align="center" color="#FFFFFF" font-size="13px" padding="0 25px">
+      <a class="link-nostyle" href="https://freemusicarchive.org/donate">
+      Donate
+      </a>
+    </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+    <mj-text align="center" color="#FFFFFF" font-size="13px" padding="0 25px">
+      <a class="link-nostyle" href="http://freemusicarchive.org/about/">
+      About Us
+      </a>
+    </mj-text>
+    </mj-column>
+    <mj-column width="33.33%">
+    <mj-text align="center" color="#FFFFFF" font-size="13px" padding="0 20px">
+      <a class="link-nostyle" href="http://freemusicarchive.org/Contact/">
+      Contact Us
+      </a>
+    </mj-text>
+  </mj-column>
+  <mj-column width="100%">
+    <mj-social display="facebook twitter google" mode="horizontal"  text-mode="false" facebook-href="[[SHORT_PERMALINK]]" twitter-href="[[SHORT_PERMALINK]]" google-href="[[SHORT_PERMALINK]]" padding="25px 0 10 0" />
+  </mj-column>
+</mj-section>

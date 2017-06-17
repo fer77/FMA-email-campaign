@@ -1,0 +1,37 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Ubuntu, Helvetica, Arial, sans-serif" color="#000000" />
+      <mj-class name="description" />
+      <mj-class name="preheader" color="#000000" font-size="11px" padding-left="25px" padding-right="25px" />
+      <mj-class name="button"  background-color="#fcc245" color="#000000" font-size="18px" border-radius="3px" font-family="Ubuntu, Helvetica, Arial, sans-serif" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      <!-- set CSS styles that will be applied to the HTML here -->
+      a {
+        color: inherit!important;
+        text-decoration: none!important;
+        }
+      .link-nostyle {
+        color: inherit;
+        text-decoration: none;
+        }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#ffffff">
+    <!-- HEADER -->
+      <mj-include path="../events/views/header" />
+    <!-- HEAD-LINE STORY -->
+      <mj-include path="../events/views/hero-story" />
+    <!-- OTHER NEWES -->
+      <mj-include path="../events/views/other-news" />
+    <!-- FEATURED MIX -->
+      <mj-include path="../events/views/featured-mix" />
+    <!-- FOOTER -->
+      <mj-include path="../events/views/footer" />
+    <!-- TERMS & CONDITIONS -->
+      <mj-include path="../events/views/terms-conditions" />
+    </mj-container>
+  </mj-body>
+</mjml>
