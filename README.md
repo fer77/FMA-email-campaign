@@ -26,6 +26,6 @@ Material design for email
 
 [Google Material Design](https://material.io/)
 
-https://material.io/color/#!/?view.left=0&view.right=1&primary.color=FF6600&secondary.color=FFFFFF&secondary.text.color=000000&primary.text.color=000000
+https://material.io/color/#!/?view.left=0&view.right=1
 
-https://codepen.io/fer77/full/rwjdBa/
+https://codepen.io/fer77/pen/PjWeGY
