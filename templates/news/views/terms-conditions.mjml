@@ -1,0 +1,17 @@
+<mj-section padding-top="0px" padding-bottom="0px">
+  <mj-column>
+    <mj-text font-family="Helvetica,Arial,sans-serif" padding-top="0px" align="center">See this email in your browser <a href="https://www.arturia.com/images/newsletters/2016-02-ispark/newsletter.html" style="text-decoration:none;color:#2DDCB4">here</a></mj-text>
+    <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
+  </mj-column>
+</mj-section>
+<mj-section padding-bottom="0px" padding-top="0px">
+  <mj-column>
+    <mj-text padding-bottom="0px" padding-top="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">Your email address is on this list as a result of a subscription, information request, competition, or other correspondence you may have had with us in the past. If you would like to be removed from our list, check the email address this newsletter
+      was sent to and use the following link: <a href="https://www.arturia.com/index.php?option=com_myarturia&view=newsletter&task=unsubscribeFromEmail&email={email}&token={title}&utm_source=elasticemail&utm_medium=email&utm_campaign=arturia_unsubscribe_2016&utm_term=nl-ispark-launch&utm_content=unsubscribe_footer"
+        style="text-decoration:none;color:#2DDCB4">Unsubscribe</a>. Privacy policy available <a href="https://www.arturia.com/privacypolicy" style="text-decoration:none;color:#2DDCB4">here</a>.</mj-text>
+
+    <mj-text padding-bottom="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">ARTURIA: <a href="https://www.arturia.com" style="text-decoration:none;color:#2DDCB4">https://www.arturia.com</a> - Contact: <a href="mailto:info@arturia.com" style="text-decoration:none;color:#2DDCB4">info</a><br /> ARTURIA France: 30 chemin
+      du vieux chêne, 38240 Meylan - FRANCE<br /> ARTURIA US: : 5776-D Lindero Cyn Rd #239 -Westlake Village, CA 91362 - USA</mj-text>
+    <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
+  </mj-column>
+</mj-section>

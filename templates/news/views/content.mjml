@@ -1,0 +1,29 @@
+<mj-section>
+  <mj-column background-color="#FFFFFE">
+    <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/05.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/overview" alt=""></mj-image>
+    <mj-text padding-top="25px" padding-bottom="25px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">iSpark is a powerful mobile production tool allowing you to create and play rhythmic tracks, complex grooves and even complete songs. Its sonic strike force comes along with an unwavering workflow and a real flexibility.
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column background-color="#FFFFFE">
+    <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/06.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/overview" alt=""></mj-image>
+    <mj-text padding-top="25px" padding-bottom="25px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">Check out the iSpark introduction movie shot during the Arturia Experience event at the ADE featuring the Dutch beatmaker FilosofischeStilte.
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column background-color="#FFFFFE">
+    <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/07.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/details" alt="">
+    </mj-image>
+    <mj-text padding-top="25px" padding-bottom="25px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">Follow Mauricio Garcia, Arturia Product Specialist, presenting you the many clever features of iSpark in this series of tutorials.</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column background-color="#FFFFFE">
+    <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/08.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/details" alt="">
+    </mj-image>
+    <mj-text padding-top="25px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">iSpark includes a tremendous collection of factory kits and individual instruments covering most of the field of application of beat-making but it is also compatible with the existing Spark resources and Expansion Packs.</mj-text>
+    <mj-button background-color="#2DDCB4" padding-bottom="25px" border-radius="8px" href="https://www.arturia.com/products/ipad-synths/ispark/overview" font-size="14px" font-family="Helvetica,Arial,sans-serif" line-height="120%">Learn more about iSpark</mj-button>
+  </mj-column>
+</mj-section>
