@@ -21,17 +21,17 @@
   <mj-body>
     <mj-container background-color="#ffffff">
     <!-- HEADER -->
-      <mj-include path="../events/views/header" />
+      <mj-include path="./views/header" />
     <!-- HEAD-LINE STORY -->
-      <mj-include path="../events/views/hero-story" />
+      <mj-include path="./views/hero-story" />
     <!-- OTHER NEWES -->
-      <mj-include path="../events/views/other-news" />
+      <mj-include path="./views/other-news" />
     <!-- FEATURED MIX -->
-      <mj-include path="../events/views/featured-mix" />
+      <mj-include path="./views/featured-mix" />
     <!-- FOOTER -->
-      <mj-include path="../events/views/footer" />
+      <mj-include path="./views/footer" />
     <!-- TERMS & CONDITIONS -->
-      <mj-include path="../events/views/terms-conditions" />
+      <mj-include path="./views/terms-conditions" />
     </mj-container>
   </mj-body>
 </mjml>
