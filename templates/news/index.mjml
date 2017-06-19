@@ -1,0 +1,14 @@
+<mjml>
+  <mj-body>
+    <mj-container background-color="#ffffff">
+    <!-- HEADER -->
+      <mj-include path="./views/header" />
+    <!-- CONTENT -->
+      <mj-include path="./views/content" />
+    <!-- FOOTER -->
+      <mj-include path="./views/footer" />
+    <!-- TERMS & CONDITIONS -->
+      <mj-include path="./views/terms-conditions" />
+    </mj-container>
+  </mj-body>
+</mjml>
