@@ -1,0 +1,17 @@
+<mj-navbar background-color="#ffe118" padding="10px 0 0">
+  <mj-column>
+    <mj-inline-links base-url="https://mjml.io" hamburger="hamburger" ico-color="#444" padding-top="5px">
+      <mj-link href="http://freemusicarchive.org/">home</mj-link>
+      <mj-link href="http://freemusicarchive.org/about/">about us</mj-link>
+      <mj-link href="http://freemusicarchive.org/Contact/">contact us</mj-link>
+      <mj-link href="https://freemusicarchive.org/donate">donate</mj-link>
+    </mj-inline-links>
+  </mj-column>
+</mj-navbar>
+<mj-section background-color="#ffe118" padding="10px">
+  <mj-column>
+    <mj-social mode="horizontal" text-mode="false" facebook-href="[[SHORT_PERMALINK]]" twitter-href="[[SHORT_PERMALINK]]" google-href="[[SHORT_PERMALINK]]" pinterest-href="[[SHORT_PERMALINK]]" linkedin-href="[[SHORT_PERMALINK]]" instagram-href="[[SHORT_PERMALINK]]"
+      display="facebook twitter google linkedin pinterest instagram">
+    </mj-social>
+  </mj-column>
+</mj-section>

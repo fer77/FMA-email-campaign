@@ -1,0 +1,20 @@
+<mj-section padding-bottom="20" padding-top="20">
+  <mj-group>
+    <mj-column>
+      <mj-text mj-class="preheader">
+        <a href="http://freemusicarchive.org/">Free Music Archive Newsletter</a>
+      </mj-text>
+    </mj-column>
+    <mj-column>
+      <mj-text mj-class="preheader" align="right">
+        <a>JUNE 2017</a>
+      </mj-text>
+    </mj-column>
+  </mj-group>
+</mj-section>
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-image src="https://dl.dropboxusercontent.com/s/7xfp9xb1yjgu0zr/fma-orange.png" href="http://freemusicarchive.org/" alt="fma logo" align="center" width="105" padding="10px 0">
+    </mj-image>
+  </mj-column>
+</mj-section>

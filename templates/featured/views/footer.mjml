@@ -1,0 +1,51 @@
+<mj-section background-color="#4b525c">
+  <mj-column width="33%" vertical-align="top">
+    <mj-image src="http://191n.mj.am/img/191n/3s/x09.png" alt="Best companies for your flights" width="30px" padding="10px 25px">
+    </mj-image>
+    <mj-text mj-class="footer-text">
+      <p>
+        BEST COMPANIES FOR YOUR FLIGHTS
+      </p>
+    </mj-text>
+  </mj-column>
+  <mj-column width="33%">
+    <mj-image src="http://191n.mj.am/img/191n/3s/xsw.png" alt="Insurances included" width="29px" padding="10px 25px">
+    </mj-image>
+    <mj-text mj-class="footer-text">
+      <p>
+        INSURANCES INCLUDED
+      </p>
+    </mj-text>
+  </mj-column>
+  <mj-column width="33%" vertical-align="top">
+    <mj-image src="http://191n.mj.am/img/191n/3s/xsx.png" alt="Hotels best selection" width="31px" padding="10px 25px">
+
+    </mj-image>
+    <mj-text mj-class="footer-text">
+      <p>
+        HOTELS BEST SELECTION
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#4395b1">
+  <mj-column width="33.33333333333333%">
+    <mj-image src="http://191n.mj.am/img/191n/3s/x1l.png" alt="Call us : 0 800 123 456" width="97px" padding="10px 25px">
+    </mj-image>
+  </mj-column>
+  <mj-column width="33.33333333333333%">
+    <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/x1m.png" alt="Meet us : find an agency" width="117px" padding="10px 25px">
+    </mj-image>
+  </mj-column>
+  <mj-column width="33.33333333333333%">
+    <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/xs0.png" alt="ASK US : find an expert" width="110" padding="10px 25px">
+    </mj-image>
+  </mj-column>
+</mj-section>
+<mj-section padding="20px 0">
+  <mj-column>
+    <mj-text align="center" color="#000000" font-size="11px">[[DELIVERY_INFO]]
+      <p>[[POSTAL_ADDRESS]]</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
