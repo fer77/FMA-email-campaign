@@ -19,7 +19,7 @@
   </mj-column>
 </mj-section>
   <!-- HEADLINE STORY BACKGROUND IMAGE -->
-<mj-section background-color="#ffffff" background-url="https://freemusicarchive.org/file/images/entries/entry_image_file_-_entry_id-15209_-_20170615162016224.jpg?width=420&height=280" background-size="cover" padding-bottom="20px" padding-top="20px">
+<mj-section background-color="#ffffff" background-url="https://dl.dropboxusercontent.com/s/6ohzcso40stly5u/net-nutrality-hero.jpg" background-size="cover" padding-bottom="20px" padding-top="20px">
   <mj-column>
     <mj-button background-color="#E77A2B" mj-class="button" href="http://freemusicarchive.org/member/cheyenne_h/blog/Mark_Your_Calendars_for_Net_Neutrality_Day" padding="305px 25px 0">READ MORE</mj-button>
   </mj-column>
