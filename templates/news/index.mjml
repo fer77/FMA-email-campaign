@@ -1,4 +1,12 @@
 <mjml>
+<mj-head>
+    <mj-attributes>
+    <!-- create mjml classes here -->
+    </mj-attributes>
+    <mj-style inline="inline">
+      <!-- set CSS styles that will be applied to the HTML here -->
+    </mj-style>
+  </mj-head>
   <mj-body>
     <mj-container background-color="#ffffff">
     <!-- HEADER -->
