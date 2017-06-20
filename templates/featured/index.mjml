@@ -1,0 +1,26 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0" />
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0 20px" />
+      <mj-class name="cta" color="#FFFFFF" font-size="13px" border-radius="3px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding="20px 25px" />
+      <mj-class name="footer-text" align="center" color="#ffffff" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="0 25px" />
+      <mj-link padding="0 35px" font-weight="bold" font-size="12px" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      a { text-decoration: none; color: inherit; }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container background-color="#EEEEEE">
+    <!-- HEADER -->
+      <mj-include path="./views/header" />
+    <!-- NAV-BAR -->
+      <mj-include path="./views/nav-bar" />
+    <!-- FEATURED-STORIES -->
+      <mj-include path="./views/featured-stories" />
+    <!-- FOOTER -->
+      <mj-include path="./views/footer" />
+    </mj-container>
+  </mj-body>
+</mjml>
