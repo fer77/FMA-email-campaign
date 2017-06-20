@@ -1,7 +1,7 @@
-<mj-section background-color="#000001">
+<mj-section background-color="#E1E2E1">
   <mj-column>
-    <mj-text color="#FFFFFE" font-family="Helvetica,Arial,sans-serif" font-size="14px">Musically yours,<br /> The Arturia Team
-    </mj-text>
+  <mj-text>Until next time:</mj-text>
+    <mj-image width="100%" src="https://dl.dropboxusercontent.com/s/fhrf8ah6f9axr6i/fma-bw.png" alt="fma logo"></mj-image>
   </mj-column>
 </mj-section>
 <mj-section padding-left="0px" padding-right="0px" padding-top="0px" padding-bottom="0px">
@@ -10,9 +10,6 @@
   </mj-column>
   <mj-column>
     <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/youtube.png" href="http://www.youtube.com/arturiaweb" alt=""></mj-image>
-  </mj-column>
-  <mj-column>
-    <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/Soundcloud.png" href="http://soundcloud.com/arturia-official" alt=""></mj-image>
   </mj-column>
   <mj-column>
     <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/twitter_arturia.png" href="http://twitter.com/arturiaofficial" alt=""></mj-image>
