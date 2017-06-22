@@ -1,57 +1,50 @@
-<mj-section background-url="http://191n.mj.am/img/191n/3s/xm9.jpg" background-repeat="no-repeat" background-size="cover" padding="20px 0">
-  <mj-column>
-    <mj-text align="center" color="#ffffff" line-height="32px" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="28px" padding="10px">ARE YOU <br /> SEASCAPE?
-    </mj-text>
-  </mj-column>
-  <mj-column width="50%" vertical-align="bottom">
-    <mj-text align="center" color="#ffffff" line-height="32px" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="28px" padding-top="180px">OR <br /> CITYSCAPE?
-    </mj-text>
-  </mj-column>
-</mj-section>
 <mj-section background-color="#ffffff" padding="20px 0">
   <mj-column>
-    <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="10px 25px" color="#BD8714">
-      <p>SUNNIEST DESTINATIONS</p>
+    <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="10px 25px" color="#616161">
+      <p>Da ! Heard It Records</p>
+      <br/>
     </mj-text>
-    <mj-image src="http://191n.mj.am/img/191n/3s/x2w.jpg" alt="Maldives, Corse : -15%" width="240">
+    <mj-image src="https://freemusicarchive.org/file/images/entries/entry_image_file_-_entry_id-15200_-_2017061455037210.jpg" alt="entry" width="240">
 
     </mj-image>
-    <mj-button mj-class="cta" background-color="#bd8714">
-      BOOK NOW
+    <mj-button mj-class="cta" background-color="#FF6600" href="http://freemusicarchive.org/label/Da__Heard_It_Records/blog/DHR-34C_C_-_Impendulo">
+      READ MORE
     </mj-button>
-    <mj-image src="http://191n.mj.am/img/191n/3s/x2x.jpg" alt="Tahiti, Bora Bora : -10 %" width="240px" padding="10px 25px">
+    <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="10px 25px" color="#616161">
+      <p>The 5th and last volume of It's time for adventure !</p>
+    </mj-text>
+    <mj-image src="https://freemusicarchive.org/file/images/entries/entry_image_file_-_entry_id-15192_-_20170609161647297.jpg" alt="Monplaisir" width="240px" padding="10px 25px">
 
     </mj-image>
-    <mj-button mj-class="cta" background-color="#bd8714">
-      BOOK NOW
+    <mj-button mj-class="cta" background-color="#FF6600" href="http://freemusicarchive.org/member/Alpha_Hydrae/blog/The_5th_and_last_volume_of_Its_time_for_adventure_">
+      READ MORE
     </mj-button>
   </mj-column>
   <mj-column>
-    <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="10px 25px" color="#BD8714">
-      <p>CHEAP CITY TOUR</p>
+    <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="10px 25px" color="#616161">
+      <p>The lost tapes Vol. B : Ending Satellites new album</p>
     </mj-text>
-    <mj-image src="http://191n.mj.am/img/191n/3s/x20.jpg" alt="Stockholm, Rome : from 162 € / day" width="240px">
+    <mj-image src="https://freemusicarchive.org/file/images/entries/entry_image_file_-_entry_id-15180_-_20170601132339363.jpg" alt="Ending Satellites new album" width="240px">
     </mj-image>
-    <mj-button mj-class="cta" background-color="#48b6bf">
-      BOOK NOW
+    <mj-button mj-class="cta" background-color="#FF6600" href="http://freemusicarchive.org/member/Ending_Satellites/blog/The_lost_tapes_Vol_B__Ending_Satellites_new_album">
+      READ MORE
     </mj-button>
-    <mj-image src="http://191n.mj.am/img/191n/3s/x2s.jpg" alt="New York, London : -30 %" width="240" padding="10px 25px">
+    <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="10px 25px" color="#616161">
+      <p>Submit A Recipe to our Audio Cookbook!</p>
+    </mj-text>
+    <mj-image src="http://blogfiles.wfmu.org/FMA/imgs/ACBrightbox.jpg" alt="" width="240" padding="10px 25px">
     </mj-image>
-    <mj-button mj-class="cta" background-color="#48b6bf">
-      BOOK NOW
+    <mj-button mj-class="cta" background-color="#FF6600" href="http://freemusicarchive.org/music/Audio_Cookbook/Audio_Cookbook/">
+      READ MORE
     </mj-button>
   </mj-column>
 </mj-section>
 <mj-section background-color="#ffffff" padding="20px 0">
-  <mj-column>
-    <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/x21.jpg" alt="NEW : Donwload your city guide" width="250px" padding="0 25px">
-    </mj-image>
-  </mj-column>
   <mj-column>
     <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding="0 25px" font-weight="bold">
-      <p>RATE YOUR STAY !</p>
+      <p>FETURED MIX</p>
     </mj-text>
-    <mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/x2l.png" alt="Book rate" width="131px">
+    <mj-image href="http://freemusicarchive.org/member/cheyenne_h/Pride_Month_Mix" src="https://freemusicarchive.org/file/images/playlists/playlist_image_file_-_playlist_id-817902_-_20170620144517986.jpg" alt="" width="131px">
     </mj-image>
   </mj-column>
 </mj-section>

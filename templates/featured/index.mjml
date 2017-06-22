@@ -8,15 +8,17 @@
       <mj-link padding="0 35px" font-weight="bold" font-size="12px" />
     </mj-attributes>
     <mj-style inline="inline">
-      a { text-decoration: none; color: inherit; }
+      
     </mj-style>
   </mj-head>
   <mj-body>
-    <mj-container background-color="#EEEEEE">
+    <mj-container background-color="#F5F5F6">
     <!-- HEADER -->
       <mj-include path="./views/header" />
     <!-- NAV-BAR -->
       <mj-include path="./views/nav-bar" />
+    <!-- HERO-STORY -->
+      <mj-include path="./views/hero-story" />
     <!-- FEATURED-STORIES -->
       <mj-include path="./views/featured-stories" />
     <!-- FOOTER -->
