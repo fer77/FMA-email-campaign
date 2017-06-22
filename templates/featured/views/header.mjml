@@ -2,7 +2,7 @@
   <mj-group>
     <mj-column>
       <mj-text mj-class="preheader">
-        <a href="http://freemusicarchive.org/">Free Music Archive Newsletter</a>
+        Free Music Archive Newsletter
       </mj-text>
     </mj-column>
     <mj-column>
@@ -12,9 +12,9 @@
     </mj-column>
   </mj-group>
 </mj-section>
-<mj-section background-color="#ffffff">
+<mj-section background-color="#FF6600">
   <mj-column>
-    <mj-image src="https://dl.dropboxusercontent.com/s/7xfp9xb1yjgu0zr/fma-orange.png" href="http://freemusicarchive.org/" alt="fma logo" align="center" width="105" padding="10px 0">
+    <mj-image src="http://blogfiles.wfmu.org/FC/fma/images/orangesq.jpg" href="http://freemusicarchive.org/" alt="fma logo" align="center" width="105" padding="10px 0">
     </mj-image>
   </mj-column>
 </mj-section>
