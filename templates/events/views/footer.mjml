@@ -1,6 +1,6 @@
 <mj-section background-color="#ffaa5a" padding-bottom="0" padding-top="0">
   <mj-column width="100%">
-    <mj-image src="https://dl.dropboxusercontent.com/s/fhrf8ah6f9axr6i/fma-bw.png" alt="Logo yellow" href="http://freemusicarchive.org/" width="133px" padding-bottom="5" padding-top="10" />
+    <mj-image src="https://dl.dropboxusercontent.com/s/fhrf8ah6f9axr6i/fma-bw.png" alt="Logo href="http://freemusicarchive.org/" width="133px" padding-bottom="5" padding-top="10" />
   </mj-column>
   <mj-column width="33.33%">
     <mj-text align="center" color="#FFFFFF" font-size="13px" padding="0 25px">
