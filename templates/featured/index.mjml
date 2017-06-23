@@ -15,14 +15,16 @@
     <mj-container background-color="#F5F5F6">
     <!-- HEADER -->
       <mj-include path="./views/header" />
-    <!-- NAV-BAR -->
-      <mj-include path="./views/nav-bar" />
     <!-- HERO-STORY -->
       <mj-include path="./views/hero-story" />
     <!-- FEATURED-STORIES -->
       <mj-include path="./views/featured-stories" />
     <!-- FOOTER -->
       <mj-include path="./views/footer" />
+    <!-- NAV-BAR -->
+      <mj-include path="./views/nav-bar" />
+    <!-- TERMS AND CONDITIONS -->
+      <mj-include path="./views/terms-conditions" />
     </mj-container>
   </mj-body>
 </mjml>
