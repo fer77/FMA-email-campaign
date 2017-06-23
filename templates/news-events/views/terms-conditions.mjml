@@ -1,0 +1,11 @@
+<mj-section padding-top="0px" padding-bottom="0px">
+  <mj-column>
+    <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
+  </mj-column>
+</mj-section>
+<mj-section padding-bottom="0px" padding-top="0px">
+  <mj-column>
+    <mj-text padding-bottom="0px" padding-top="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px"><p>You have received this email because you signed up for the FMA newsletter. Click <a href="#">here</a> to edit your FMA member settings, or <a href="#">here</a> to unsubscribe.</p></mj-text>
+    <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
+  </mj-column>
+</mj-section>
