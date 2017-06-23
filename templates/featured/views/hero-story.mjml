@@ -1,4 +1,4 @@
-<mj-section background-url="https://dl.dropboxusercontent.com/s/6ohzcso40stly5u/net-nutrality-hero.jpg" background-repeat="no-repeat" background-size="cover" padding="20px 0">
+<mj-section background-url="https://dl.dropboxusercontent.com/s/6ohzcso40stly5u/net-nutrality-hero.jpg" background-repeat="no-repeat" background-size="cover" padding="0px 0">
   <mj-column>
     <mj-text align="center" color="#ffffff" line-height="32px" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="28px" padding="10px"></mj-text>
   </mj-column>
