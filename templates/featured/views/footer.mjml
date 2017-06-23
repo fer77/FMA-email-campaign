@@ -4,7 +4,7 @@
     <mj-image width="100%" src="https://dl.dropboxusercontent.com/s/fhrf8ah6f9axr6i/fma-bw.png" href="http://freemusicarchive.org/" alt="fma logo"></mj-image>
   </mj-column>
 </mj-section>
-<mj-section padding-left="0px" padding-right="0px" padding-top="15px" padding-bottom="15px" background-color="#ffffff">
+<!-- <mj-section padding-left="0px" padding-right="0px" padding-top="15px" padding-bottom="15px" background-color="#ffffff">
   <mj-column>
     <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/facebook_arturia.png" href="https://www.facebook.com/freemusicarchive?ref=hl" alt="facebook"></mj-image>
   </mj-column>
@@ -14,15 +14,4 @@
   <mj-column>
     <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/twitter_arturia.png" href="https://twitter.com/freemusicarchiv" alt="twitter"></mj-image>
   </mj-column>
-</mj-section>
-<mj-section padding-top="5px" padding-bottom="0px" background-color="#ffffff">
-  <mj-column>
-    <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
-  </mj-column>
-</mj-section>
-<mj-section padding-bottom="20px" padding-top="0px" background-color="#ffffff">
-  <mj-column>
-    <mj-text padding-left="20px" padding-right="20px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px"><p>You have received this email because you signed up for the FMA newsletter. Click <a href="#">here</a> to edit your FMA member settings, or <a href="#">here</a> to unsubscribe.</p></mj-text>
-    <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
-  </mj-column>
-</mj-section>
+</mj-section> -->
