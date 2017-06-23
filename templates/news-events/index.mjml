@@ -3,7 +3,7 @@
     <mj-attributes>
       <mj-text font-family="Ubuntu, Helvetica, Arial, sans-serif" color="#000000" />
       <mj-class name="description" />
-      <mj-class name="preheader" color="#000000" font-size="11px" padding-left="25px" padding-right="25px" />
+      <mj-class name="preheader" color="#000000" font-size="11px" padding-left="10px" padding-right="10px" />
       <mj-class name="button"  background-color="#fcc245" color="#000000" font-size="18px" border-radius="3px" font-family="Ubuntu, Helvetica, Arial, sans-serif" />
     </mj-attributes>
     <mj-style inline="inline">
