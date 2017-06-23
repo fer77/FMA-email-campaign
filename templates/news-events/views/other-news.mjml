@@ -1,6 +1,6 @@
 <mj-section padding-bottom="20px">
   <mj-column width="100%">
-    <mj-text align="center" font-size="19px" padding="0 25px" font-weight="bold">
+    <mj-text align="center" font-size="19px" padding="0 10px" font-weight="bold">
       Other FMA News!
     </mj-text>
   </mj-column>
@@ -10,28 +10,28 @@
 </mj-section>
 <mj-section padding-bottom="20px" padding-top="0">
   <mj-column>
-    <mj-text font-size="13px" padding="0 25px" font-weight="bold">
+    <mj-text font-size="13px" padding="0 10px" font-weight="bold">
       <a href="http://freemusicarchive.org/label/Da__Heard_It_Records/blog/DHR-34C_C_-_Impendulo" class="link-nostyle">
       Da ! Heard It Records
       </a>
     </mj-text>
-    <mj-text font-size="11px">
+    <mj-text font-size="11px" padding="10 10" padding-top="0">
       For its 34th release, Da ! Heard It Records is warming up the machines to trace some new paths.
     </mj-text>
-    <mj-text font-size="13px" padding="0 25px" font-weight="bold">
+    <mj-text font-size="13px" padding="0 10px" font-weight="bold">
       <a href="http://freemusicarchive.org/member/Alpha_Hydrae/blog/The_5th_and_last_volume_of_Its_time_for_adventure_" class="link-nostyle">
       The 5th and last volume of It's time for adventure !
       </a>
     </mj-text>
-    <mj-text font-size="11px">
+    <mj-text font-size="11px" padding="10 10" padding-top="0">
       I've just released the 5th volume of It's time for adventure !, that I think will be the last one for this idea. It was at start kind of nothing. I was doing a soundtrack for the 10th anniversary of a RPG forum I used to play on.
     </mj-text>
-    <mj-text font-size="13px" padding="0 25px" font-weight="bold">
+    <mj-text font-size="13px" padding="0 10px" font-weight="bold">
       <a href="http://freemusicarchive.org/member/Ending_Satellites/blog/The_lost_tapes_Vol_B__Ending_Satellites_new_album" class="link-nostyle">
       The lost tapes Vol. B : Ending Satellites new album
       </a>
     </mj-text>
-    <mj-text font-size="11px">
+    <mj-text font-size="11px" padding="10 10" padding-top="0">
       This new album is a travel around the world and its beauty, with 7 musics and 7 photographs that speak about the beautiful landscapes I've been and the wonderful people I've been lucky to met.
     </mj-text>
   </mj-column>
