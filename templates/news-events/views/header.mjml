@@ -19,7 +19,7 @@
   </mj-column>
 </mj-section> -->
 
-<mj-section padding-bottom="20" padding-top="20">
+<mj-section padding-bottom="15" padding-top="15">
   <mj-group>
     <mj-column>
       <mj-text mj-class="preheader">
@@ -27,9 +27,7 @@
       </mj-text>
     </mj-column>
     <mj-column>
-      <mj-text mj-class="preheader" align="right">
-        <a>JUNE 2017</a>
-      </mj-text>
+      
     </mj-column>
   </mj-group>
 </mj-section>
@@ -39,6 +37,8 @@
     </mj-image>
   </mj-column>
   <mj-column>
-    
+    <mj-text color="#ffffff" align="right"  padding="40 10">
+      JUNE 2017
+    </mj-text>
   </mj-column>
 </mj-section>
