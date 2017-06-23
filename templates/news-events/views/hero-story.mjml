@@ -1,11 +1,11 @@
 <mj-section padding-bottom="20" padding-top="25">
   <mj-column width="100%">
   <!-- STORY HEADLINE -->
-    <mj-text font-size="19px" padding="0 25px" font-weight="bold">
+    <mj-text font-size="19px" padding="0 10" font-weight="bold">
       Mark Your Calendars for Net Neutrality Day!
     </mj-text>
   <!-- STORY BODY -->
-    <mj-text font-size="11px">
+    <mj-text font-size="11px" padding="0 10">
       Remember all that hullaballoo a couple of years ago, when #NetNeutrality was the rallying cry on the interwebs? That simmered down, but it's about to boil over again.
     </mj-text>
   </mj-column>
