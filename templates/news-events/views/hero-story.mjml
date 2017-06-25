@@ -11,7 +11,7 @@
   </mj-column>
 </mj-section>
   <!-- STORY BANNER -->
-<mj-section background-color="#ffaa5a">
+<mj-section background-color="#ff983f">
   <mj-column>
     <mj-text align="center" font-size="20px" padding="0 25px">
     <span style="color:#fff;">BEGINS</span> JULY 12
@@ -21,6 +21,6 @@
   <!-- HEADLINE STORY BACKGROUND IMAGE -->
 <mj-section background-color="#ffffff" background-url="https://dl.dropboxusercontent.com/s/6ohzcso40stly5u/net-nutrality-hero.jpg" background-size="cover" padding-bottom="20px" padding-top="20px">
   <mj-column>
-    <mj-button background-color="#E77A2B" mj-class="button" href="http://freemusicarchive.org/member/cheyenne_h/blog/Mark_Your_Calendars_for_Net_Neutrality_Day" padding="305px 25px 0">READ MORE</mj-button>
+    <mj-button background-color="#FF6600" mj-class="button" href="http://freemusicarchive.org/member/cheyenne_h/blog/Mark_Your_Calendars_for_Net_Neutrality_Day" padding="305px 25px 0">READ MORE</mj-button>
   </mj-column>
 </mj-section>
