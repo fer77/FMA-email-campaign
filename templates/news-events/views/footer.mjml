@@ -1,10 +1,10 @@
-<mj-section background-color="#E1E2E1">
-  <mj-column>
+<mj-section padding="0" background-color="#E1E2E1">
+  <mj-column padding="0 10">
   <mj-text>Until next time:</mj-text>
     <mj-image width="100%" src="https://dl.dropboxusercontent.com/s/fhrf8ah6f9axr6i/fma-bw.png" href="http://freemusicarchive.org/" alt="fma logo"></mj-image>
   </mj-column>
 </mj-section>
-<mj-section padding-left="0px" padding-right="0px" padding-top="0px" padding-bottom="0px">
+<mj-section padding="0">
   <mj-column>
     <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/facebook_arturia.png" href="#" alt="facebook"></mj-image>
   </mj-column>
