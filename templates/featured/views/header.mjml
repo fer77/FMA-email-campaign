@@ -1,23 +1,20 @@
 <mj-section padding-bottom="15" padding-top="15">
-  <mj-group>
     <mj-column>
       <mj-text padding-left="10">
         Free Music Archive Newsletter
       </mj-text>
     </mj-column>
-    <mj-column>
-      
-    </mj-column>
-  </mj-group>
 </mj-section>
 <mj-section vertical-align="center" padding="0px" background-color="#FF6600">
-  <mj-column vertical-align="middle">
-    <mj-image src="http://blogfiles.wfmu.org/FC/fma/images/orangesq.jpg" href="http://freemusicarchive.org/" alt="fma logo" align="left" width="105" padding="0px 0px">
-    </mj-image>
-  </mj-column>
-  <mj-column>
-    <mj-text color="#ffffff" align="right"  padding="40 10">
-      JUNE 2017
-    </mj-text>
-  </mj-column>
+  <mj-group>
+    <mj-column vertical-align="middle">
+      <mj-image src="http://blogfiles.wfmu.org/FC/fma/images/orangesq.jpg" href="http://freemusicarchive.org/" alt="fma logo" align="left" width="105" padding="0px 0px">
+      </mj-image>
+    </mj-column>
+    <mj-column>
+      <mj-text color="#ffffff" align="right"  padding="40 10">
+        JUNE 2017
+      </mj-text>
+    </mj-column>
+  </mj-group>
 </mj-section>
