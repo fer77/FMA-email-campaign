@@ -1,17 +1,13 @@
-<mj-section padding-bottom="30" padding-top="30" background-color="#EEEEEE">
+<mj-section padding="10 10" background-color="#EEEEEE">
   <mj-column>
-  <mj-text padding-left="25px;">Until next time:</mj-text>
+  <mj-text padding="0">Until next time:</mj-text>
     <mj-image width="100%" src="https://dl.dropboxusercontent.com/s/fhrf8ah6f9axr6i/fma-bw.png" href="http://freemusicarchive.org/" alt="fma logo"></mj-image>
   </mj-column>
 </mj-section>
-<!-- <mj-section padding-left="0px" padding-right="0px" padding-top="15px" padding-bottom="15px" background-color="#ffffff">
+<mj-section padding="0" background-color="#EEEEEE">
   <mj-column>
-    <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/facebook_arturia.png" href="https://www.facebook.com/freemusicarchive?ref=hl" alt="facebook"></mj-image>
+    <mj-button mj-class="cta" background-color="#FF6600" href="#">
+      DONATE
+    </mj-button>
   </mj-column>
-  <mj-column>
-    <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/youtube.png" href="#" alt="youtube"></mj-image>
-  </mj-column>
-  <mj-column>
-    <mj-image width="86" src="https://www.arturia.com/images/newsletters/2016-02-ispark/twitter_arturia.png" href="https://twitter.com/freemusicarchiv" alt="twitter"></mj-image>
-  </mj-column>
-</mj-section> -->
+</mj-section>
