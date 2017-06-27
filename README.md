@@ -28,7 +28,7 @@ Material design for email
 
 I used this as a style guide.
 
-[Google Material Design](https://material.io/)
+<a href="https://material.io/" target="_blank">Google Material Design</a>
 
 https://material.io/color/#!/?view.left=0&view.right=1
 
