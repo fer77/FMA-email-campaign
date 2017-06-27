@@ -21,7 +21,7 @@ Built using mjml
   </a>
 </p>
 
-MJML is a markup language designed to reduce the pain of coding a responsive email.  [check it out](https://mjml.io/documentation/).
+MJML is a markup language designed to reduce the pain of coding a responsive email.  <a href="https://mjml.io/documentation/" target="_blank">check it out</a>.
 
 Material design for email
 ===
