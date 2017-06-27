@@ -1,0 +1,16 @@
+<mj-section vertical-align="center" padding-bottom="0px">
+  <mj-column vertical-align="middle">
+  <!-- LOGO -->
+    <mj-image width="144" align="left" src="https://dl.dropboxusercontent.com/s/7xfp9xb1yjgu0zr/fma-orange.png" href="http://freemusicarchive.org/" alt="fma logo"></mj-image>
+  </mj-column>
+  <!-- DATE -->
+  <mj-column>
+    <mj-text font-family="Helvetica,Arial,sans-serif" line-height="120%" text-decoration="underline" align="right"><br/>JUNE 2016</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#E1E2E1">
+<!-- INTRO -->
+  <mj-column>
+    <mj-text padding-top="0px" padding-bottom="0px" color="#000000" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">We'll be accepting recipe song submissions for our Audio Cookbook through June 30, so enter your culinary creations in the next few weeks! Details below:</mj-text>
+  </mj-column>
+</mj-section>
