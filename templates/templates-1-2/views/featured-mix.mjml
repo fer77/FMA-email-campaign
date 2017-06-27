@@ -1,0 +1,13 @@
+<mj-section padding-bottom="20px">
+  <mj-column width="100%">
+    <mj-image src="https://freemusicarchive.org/file/images/tracks/Track_-_2017031780504753?width=290&height=220" alt="CD" href="http://freemusicarchive.org/member/cheyenne_h/Listening_Party_Vol_6_Stochastic_Deployment_6132017" width="147px" padding="0" />
+  </mj-column>
+  <mj-column width="100%">
+    <mj-text align="center" font-size="16px" padding="0 25px">
+      FEATURED MIX
+    </mj-text>
+    <mj-button background-color="#FF6600" mj-class="button" font-size="13px" href="http://freemusicarchive.org/member/cheyenne_h/Listening_Party_Vol_6_Stochastic_Deployment_6132017" padding="10px 0">
+      DOWNLOAD!
+    </mj-button>
+  </mj-column>
+</mj-section>
