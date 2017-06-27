@@ -21,10 +21,12 @@ Built using mjml
   </a>
 </p>
 
-MJML is a markup language designed to reduce the pain of coding a responsive email.
+MJML is a markup language designed to reduce the pain of coding a responsive email.  [check it out](https://mjml.io/documentation/).
 
 Material design for email
 ===
+
+I used this as a style guide.
 
 [Google Material Design](https://material.io/)
 
