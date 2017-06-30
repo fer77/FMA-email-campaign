@@ -1,11 +1,11 @@
 <mj-section background-color="#ffffff" padding="20px 0">
+  <!-- first and second stories in the first column (top to bottom) -->
   <mj-column>
     <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="10px 25px" color="#616161">
       <p>Da ! Heard It Records</p>
       <br/>
     </mj-text>
     <mj-image src="https://freemusicarchive.org/file/images/entries/entry_image_file_-_entry_id-15200_-_2017061455037210.jpg" alt="entry" width="240">
-
     </mj-image>
     <mj-button mj-class="cta" background-color="#FF6600" href="http://freemusicarchive.org/label/Da__Heard_It_Records/blog/DHR-34C_C_-_Impendulo">
       READ MORE
@@ -14,12 +14,13 @@
       <p>The 5th and last volume of It's time for adventure !</p>
     </mj-text>
     <mj-image src="https://freemusicarchive.org/file/images/entries/entry_image_file_-_entry_id-15192_-_20170609161647297.jpg" alt="Monplaisir" width="240px" padding="10px 25px">
-
     </mj-image>
     <mj-button mj-class="cta" background-color="#FF6600" href="http://freemusicarchive.org/member/Alpha_Hydrae/blog/The_5th_and_last_volume_of_Its_time_for_adventure_">
       READ MORE
     </mj-button>
   </mj-column>
+
+  <!-- third and forth stories in the second column -->
   <mj-column>
     <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="15px" padding="10px 25px" color="#616161">
       <p>The lost tapes Vol. B : Ending Satellites new album</p>
@@ -39,6 +40,8 @@
     </mj-button>
   </mj-column>
 </mj-section>
+
+<!-- Featured mix, could go in its own view if needed -->
 <mj-section background-color="#ffffff" padding="20px 0">
   <mj-column>
     <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding="0 25px" font-weight="bold">
